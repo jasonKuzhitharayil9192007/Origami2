@@ -1,0 +1,19 @@
+h1
+{
+    font-family:'Gill Sans MT';
+    color:white;
+}
+
+h3
+{
+    font-family:inherit;
+    color:white;
+}
+
+.header
+{
+    display:grid;
+    padding: 20px;
+    font-size: xx-large;
+    background-color: #000000
+}
